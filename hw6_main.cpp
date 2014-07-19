@@ -1,3 +1,6 @@
+// The following code is the base code given to me by my professor to run my program
+// Please note that it is not mine
+
 // Cpt S 223
 // Homework 6 - 2-3-4 Tree
 // DO NOT MODIFY THIS FILE
